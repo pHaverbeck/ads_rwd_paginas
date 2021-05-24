@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(24, 23, 23);
+
+}
+
+.main{
+    color: white;
+    margin-top: 50px;
+    text-align:center;
+
+}
+
+a{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bolder;
+    color:whitesmoke;
+    border: rgb(7, 208, 223);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20%;
+    padding: 20px;
+}
+
+a:hover{
+    font-family:'Courier New', Courier, monospace;
+    font-size: 25px;
+    font-weight: bolder;
+    color:rgb(0, 0, 0);
+    border: rgb(7, 208, 223);
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20%;
+    padding: 20px;
+    background-color:gold
+}
